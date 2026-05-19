@@ -7,7 +7,7 @@ Con el fin de estandarizar la identificación de activos de software y garantiza
 > Todos los términos se rigen por lo establecido en el archivo [LICENSE](/LICENSE).
 
 > [!NOTE]
-> This document is also available in its **english version** at [docs/en/README.md](/en/README.md)
+> This document is also available in its **english version** at [en/README.md](/en/README.md)
 
 El nombre del repositorio se organiza utilizando el nombre del proyecto y tres bloques lógicos separados por un doble guion (`--`). Esta separación crea una jerarquía visual que permite a los desarrolladores distinguir entre el contexto del proyecto, la identidad funcional y la implementación técnica específica:
 
