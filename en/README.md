@@ -7,7 +7,7 @@ In order to standardize software asset identification and ensure project traceab
 > All terms are governed by what is stated in the [LICENSE](/LICENSE) file.
 
 > [!NOTE]
-> Este documento también se encuentra disponible en su **versión en español** en [docs/es/README.md](/es/README.md)
+> Este documento también se encuentra disponible en su **versión en español** en [es/README.md](/es/README.md)
 
 The repository name is organized using the project name and three logical blocks separated by a double hyphen (--). This separation creates a visual hierarchy that allows developers to distinguish between the project context, the functional identity, and the specific technical implementation:
 
